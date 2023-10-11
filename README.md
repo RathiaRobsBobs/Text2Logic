@@ -9,3 +9,6 @@ Desarrollar una aplicación de Procesamiento de Lenguaje Natural (NLP) basada en
 - Desarrollar un módulo de procesamiento de lenguaje natural que identifique patrones gramaticales y aplique reglas de traducción para la conversión de texto en lenguaje humano a proposiciones atómicas, y de estas a expresiones lógicas.
 - Facilitar la resolución de preguntas de razonamiento verbal mediante la traducción automática de textos extensos en proposiciones lógicas.
 - Mejorar la comprensión y el análisis de contratos legales y documentos similares al proporcionar una representación lógica clara de los términos y condiciones establecidos en los mismos.
+
+## Meta
+Lograr una mejora del 60% en la eficiencia de traducción de texto en lenguaje humano a expresiones lógicas, lo que incluye la resolución de preguntas de razonamiento verbal y la interpretación de contratos legales.
