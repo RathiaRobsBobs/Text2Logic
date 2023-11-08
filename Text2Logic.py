@@ -124,6 +124,7 @@ def logica(oraciones, ancho=80):
 
 os.system('cls' if os.name == 'nt' else 'clear') # Se limpia la consola
 
+# Oración para testing: Si tuvieran que justificarse ciertos hechos por su enorme tradición entonces, si estos hechos son inofensivos y respetan a todo ser viviente y al medio ambiente, no habría ningún problema
 imprimir_nombre_del_juego()
 oraciones = input("\nIngresa una o más oraciones en lenguaje natural, separadas por puntos: ").split('.')
 
